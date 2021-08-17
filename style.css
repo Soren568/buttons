@@ -1,0 +1,27 @@
+button[id="1"] {
+    color: seagreen;
+    border: 2px solid;
+    border-radius: 20px;
+    height: 30px;
+    width: 200px;
+} 
+
+button[id="2"]{
+    font-size: 15pt;
+    background-color: lightgreen;
+    color: white;
+    border: white;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
+
+button[id="3"]{
+    font-size: 12pt;
+    background-color: dodgerblue ;
+    color: white;
+    height: 30px;
+    width: 250px;
+    box-shadow: 4px 5px 1px black;
+
+}
